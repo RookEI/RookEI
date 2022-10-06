@@ -18,8 +18,6 @@
 
 
 - 👋 I'm Keshawn and welcome to my Github profile
-- 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning Full-Stack Developing
 - 📫 How to reach me keshawn.smith1@outlook.com
 
 <!---
