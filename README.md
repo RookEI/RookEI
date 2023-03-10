@@ -13,12 +13,17 @@
   </a>
 <img src="https://komarev.com/ghpvc/?username=RookEI&style=flat-square&color=red" alt=""/>
 </div>
-  
+  <span style="color:red;font-weight:700;font-size:20px">
+    All your base are belong to us.
+  </span>
+
 </div>
 
 
-- 👋 I'm Keshawn and welcome to my Github profile
-- 📫 How to reach me keshawn.smith1@outlook.com
+
+- 👋 Welcome to my Github Profile, this is where I will place all my personal Programs that I have created whether it is something horridly cursed or something very logical. Whatever my mind comes up with is what I'll create
+
+- If for some reason you want to reach out to me please use my email "keshawn.smith1@outlook.com"
 
 <!---
 RookEI/RookEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
