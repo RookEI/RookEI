@@ -13,7 +13,7 @@
   </a>
 <img src="https://komarev.com/ghpvc/?username=RookEI&style=flat-square&color=red" alt=""/>
 </div>
-  <h1 style="font-size:5">
+  <h1 style="font-size:"5"; font color: "red">
     All your base are belong to us.
   </h1>
 
