@@ -13,9 +13,9 @@
   </a>
 <img src="https://komarev.com/ghpvc/?username=RookEI&style=flat-square&color=red" alt=""/>
 </div>
-  <span style="color:red;font-weight:700;font-size:20px">
+  <h1 style="font-size:5">
     All your base are belong to us.
-  </span>
+  </h1>
 
 </div>
 
