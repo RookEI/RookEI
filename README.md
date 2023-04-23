@@ -23,7 +23,6 @@
 
 - 👋 Welcome to my Github Profile, this is where I will place all my personal Programs that I have created whether it is something horridly cursed or something very logical. Whatever my mind comes up with is what I'll create
 
-- If for some reason you want to reach out to me please use my email "keshawn.smith1@outlook.com"
 
 <!---
 RookEI/RookEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
