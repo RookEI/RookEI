@@ -5,5 +5,5 @@ A̶̧̢̢̛̛̰͕̥͖̞̹ͨ̏́͑́̋̈́̌͋̽͆̀̽͜͝l̛̤͕̮̱̫͖ͬ͋͌̄
 
 Contact
 -------
-PGP FIngerprint: 6791589ba774d369f3aa7d56565de7bf0763a09f
+PGP Fingerprint: 6791589ba774d369f3aa7d56565de7bf0763a09f
 XMPP: Key@404.city
